@@ -39,8 +39,8 @@ CodeAlpha_Stock_Portfolio_Tracker/
 │
 ├── Tracker.py
 ├── portfolio_distribution.png
-├── portfolio.txt
-├── portfolio.csv
+├── DATA.txt
+├── data.csv
 └── README.md
 
 ````
