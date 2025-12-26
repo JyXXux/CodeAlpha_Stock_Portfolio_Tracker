@@ -1,33 +1,34 @@
+```md
 # 📊 Stock Portfolio Tracker (CodeAlpha – Task 2)
 
-A **menu-driven Python application** that helps users manage, analyze, and visualize their stock investments.  
-This project was developed as **Task 2 of the CodeAlpha Python Internship**.
+A menu-driven Python application that helps users manage, analyze, and visualize their stock investments.  
+This project was developed as Task 2 of the CodeAlpha Python Internship.
 
 ---
 
 ## 🚀 Features
 
-- 📥 Add stocks with quantity
-- 💰 Calculate individual and total investment value
-- 📄 View detailed portfolio summary
-- 📊 **Visualize portfolio distribution using Pie Chart (Matplotlib)**
-- 💾 **Save portfolio data** in `.txt` and `.csv` formats
-- ✅ Input validation and error handling
-- 🧠 Unicode-safe file saving (₹ symbol supported)
+- Add stocks with quantity
+- Calculate individual and total investment value
+- View detailed portfolio summary
+- Visualize portfolio distribution using Pie Chart (Matplotlib)
+- Save portfolio data in `.txt` and `.csv` formats
+- Input validation and error handling
+- Unicode-safe file saving (₹ symbol supported)
 
 ---
 
 ## 🛠️ Technologies Used
 
 - **Language:** Python  
-- **Libraries:**
-  - `matplotlib` – Data visualization
-  - `csv` – CSV file handling
-- **Core Concepts:**
-  - Dictionaries & Lists
-  - Loops and conditional statements
-  - File handling
-  - Exception handling
+- **Libraries:**  
+  - matplotlib – Data visualization  
+  - csv – CSV file handling  
+- **Core Concepts:**  
+  - Dictionaries and Lists  
+  - Loops and conditional statements  
+  - File handling  
+  - Exception handling  
 
 ---
 
@@ -39,9 +40,9 @@ CodeAlpha_Stock_Portfolio_Tracker/
 │
 ├── Tracker.py
 ├── portfolio_distribution.png
-├── DATA.txt
-├── data.csv
-└── README.md
+├── portfolio.txt
+├── portfolio.csv
+├── README.md
 
 ````
 
@@ -49,18 +50,18 @@ CodeAlpha_Stock_Portfolio_Tracker/
 
 ## ▶️ How to Run the Project
 
-1. **Clone the repository**
+1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/CodeAlpha_Stock_Portfolio_Tracker.git
 ````
 
-2. **Navigate to the project directory**
+2. Navigate to the project directory
 
    ```bash
    cd CodeAlpha_Stock_Portfolio_Tracker
    ```
 
-3. **Run the program**
+3. Run the program
 
    ```bash
    python Tracker.py
@@ -83,21 +84,17 @@ CodeAlpha_Stock_Portfolio_Tracker/
 
 ## 💾 File Saving Options
 
-* **Text File:** `portfolio.txt`
-* **CSV File (Excel compatible):** `portfolio.csv`
+* Text file: `portfolio.txt`
+* CSV file (Excel compatible): `portfolio.csv`
 
-All files are saved using **UTF-8 encoding** to support the ₹ (Indian Rupee) symbol.
+All files are saved using UTF-8 encoding to support the ₹ (Indian Rupee) symbol.
 
 ---
 
 ## 📈 Visualization
 
-* Portfolio distribution is displayed using a **Pie Chart**
-* Chart is saved automatically as:
-
-  ```
-  portfolio_distribution.png
-  ```
+* Portfolio distribution is displayed using a pie chart
+* The chart is saved automatically as `portfolio_distribution.png`
 
 ---
 
@@ -113,30 +110,25 @@ All files are saved using **UTF-8 encoding** to support the ₹ (Indian Rupee) s
 
 ## 📌 Internship Reference
 
-* **Internship:** CodeAlpha – Python Internship
-* **Task:** Task 2 – Stock Portfolio Tracker
+* Internship: CodeAlpha – Python Internship
+* Task: Task 2 – Stock Portfolio Tracker
 
 ---
 
 ## 👨‍💻 Author
 
-**Jyotishka Bhaduri**
+Jyotishka Bhaduri
 Python Intern | Aspiring Software Developer
 
-🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
+GitHub: [https://github.com/your-username](https://github.com/your-username)
 
 ---
 
 ## ⭐ Acknowledgment
 
-Thanks to **CodeAlpha** for providing this internship opportunity and practical learning tasks.
+Thanks to CodeAlpha for providing this internship opportunity and practical learning tasks.
 
----
-
-⭐ *If you find this project useful, feel free to star the repository!*
+If you find this project useful, feel free to star the repository.
 
 ```
-
----
-
-
+```
