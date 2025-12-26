@@ -1,0 +1,5 @@
+AAPL | Qty: 10 | Value: ₹1800
+MSFT | Qty: 20 | Value: ₹6400
+GOOGL | Qty: 40 | Value: ₹5600
+
+Total Investment: ₹13800
