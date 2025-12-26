@@ -119,7 +119,7 @@ This project is licensed under the **MIT License** ✅
 **Jyotishka Bhaduri** 🙌
 Python Intern | Aspiring Software Developer 💻
 
-🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
+🔗 GitHub:https://github.com/JyXXux/
 
 ---
 
